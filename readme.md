@@ -1,8 +1,6 @@
 <h1 align="center"> Controle de Estoque </h1>
 
-<p align="center">
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-</p>
+![desenvolvimento](https://github.com/Roberto-Lopes/ControleDeEstoqueAPI/assets/91472873/87d7e1cb-2367-45e6-89a1-7785f9338bf6)
 
 # Descrição do projeto
 
