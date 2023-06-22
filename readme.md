@@ -1,6 +1,6 @@
 <h1 align="center"> Controle de Estoque </h1>
 
-![desenvolvimento](https://github.com/Roberto-Lopes/ControleDeEstoqueAPI/assets/91472873/87d7e1cb-2367-45e6-89a1-7785f9338bf6)
+![concluido](https://img.shields.io/badge/Status-Concluido-blue)
 
 # Descrição do projeto
 
